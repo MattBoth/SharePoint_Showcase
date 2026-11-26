@@ -10,3 +10,4 @@ A collection of things I've built in SharePoint. Each item has its own page with
 | [![The Burger, Exploded](assets/burger.png)](pages/burger.md) | **[The Burger, Exploded](pages/burger.md)** – Scroll-driven storytelling page that deconstructs a burger layer by layer. |
 | [![Policy Finder](assets/doclibrary.png)](pages/doclibrary.md) | **[Policy Finder](pages/doclibrary.md)** – Document library with search, faceted filters and a card-based results view. |
 | [![Explore Australia](assets/explore-aus.png)](pages/explore-aus.md) | **[Explore Australia](pages/explore-aus.md)** – Interactive map that opens rich destination stories for each state. |
+| [![Aliens Knowledge Base](assets/knowledge-base.png)](pages/knowledge-base.md) | **[Aliens Knowledge Base](pages/knowledge-base.md)** – Structured, Copilot-ready knowledge base using the new SharePoint Knowledge Base (preview). |
