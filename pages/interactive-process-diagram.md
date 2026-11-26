@@ -6,7 +6,7 @@
 ![Interactive Process Diagram in action](../assets/interactive-process-diagram.gif)
 
 ## Overview
-An interactive, animated process diagram embedded in a SharePoint page on "The Landing" site (under the *Cool Examples* menu). It presents an **Experience Delivery Framework**, "Shape. Build. Learn. Launch.", as a five-stage journey that visitors can click through to explore each stage.
+An interactive process diagram built with **100% custom HTML** and designed for SharePoint Online. It brings a five-stage Experience Delivery Framework to life, allowing visitors to click through each stage and explore its purpose. With animated transitions, colour-coded steps and contextual detail panels, it turns a static process into an engaging, easy-to-follow experience.
 
 ## The stages
 | Stage | Purpose |
