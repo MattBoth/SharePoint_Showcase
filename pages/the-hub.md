@@ -3,7 +3,8 @@
 ![The Hub home page](../assets/the-hub.png)
 
 ## Overview
-The Hub is a modern intranet home page built on SharePoint Online for a property development and construction business ("Together we build better places."). It gives every employee a single starting point for company news, events, tools and documents.
+The Hub is a corporate intranet home page concept built entirely in HTML and designed for SharePoint Online. Created for a fictional property development and construction business, it brings company news, upcoming events, key documents and everyday tools together in a branded, central workspace.
+With a bold hero banner, mega-menu navigation, news cards and resource tiles, it showcases how HTML can create a polished, customised intranet experience.
 
 ## Highlights
 - **Branded hero banner** with a welcome message and tagline over project imagery.
