@@ -8,3 +8,4 @@ A collection of things I've built in SharePoint. Each item has its own page with
 | [![Interactive Process Diagram](assets/interactive-process-diagram.png)](pages/interactive-process-diagram.md) | **[Interactive Process Diagram](pages/interactive-process-diagram.md)** – Clickable five-stage framework diagram embedded in a SharePoint page. |
 | [![Interactive Project Timeline](assets/project-timeline.png)](pages/project-timeline.md) | **[Interactive Project Timeline](pages/project-timeline.md)** – Clickable project roadmap with phases, milestones and a "play the journey" mode. |
 | [![The Burger, Exploded](assets/burger.png)](pages/burger.md) | **[The Burger, Exploded](pages/burger.md)** – Scroll-driven storytelling page that deconstructs a burger layer by layer. |
+| [![Policy Finder](assets/doclibrary.png)](pages/doclibrary.md) | **[Policy Finder](pages/doclibrary.md)** – Document library with search, faceted filters and a card-based results view. |
