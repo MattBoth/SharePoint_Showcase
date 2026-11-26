@@ -1,6 +1,6 @@
 # Interactive Feature Tour
 
-![Interactive Feature Tour preview](../assets/interactive-feature-tour.gif)
+![Interactive Feature Tour preview](../assets/feature-tour-thumbnail.png)
 
 ## Demo
 ![Interactive Feature Tour in action](../assets/interactive-feature-tour.gif)
