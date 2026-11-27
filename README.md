@@ -12,6 +12,5 @@ A collection of things I've built in SharePoint. Each item has its own page with
 | [![Policy Finder](assets/doclibrary.png)](pages/doclibrary.md) | **[Policy Finder](pages/doclibrary.md)** – Document library with search, faceted filters and a card-based results view. |
 | [![Explore Australia](assets/explore-aus.png)](pages/explore-aus.md) | **[Explore Australia](pages/explore-aus.md)** – Interactive map that opens rich destination stories for each state. |
 | [![Aliens Knowledge Base](assets/knowledge-base.png)](pages/knowledge-base.md) | **[Aliens Knowledge Base](pages/knowledge-base.md)** – Structured, Copilot-ready knowledge base using the new SharePoint Knowledge Base (preview). |
-| [![Personal Greeting Web Part](assets/welcome-webpart.png)](pages/welcome-webpart.md) | **[Personal Greeting Web Part](pages/welcome-webpart.md)** – Custom SPFx web part that welcomes each user by name, with full styling controls. |
 | [![Northstar](assets/northstar-home.png)](pages/northstar-home.md) | **[Northstar Home](pages/northstar-home.md)** – Modern, personalised intranet home page concept. |
 | [![Modern Work Hub](assets/modern-work-hub.png)](pages/modern-work-hub.md) | **[Modern Work Hub](pages/modern-work-hub.md)** – Filterable idea cards with a time-saving calculator. |
